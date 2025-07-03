@@ -1,3 +1,4 @@
 # Rishabh-Demo
-this is my fisrt Repository
-Author- Rishabh Dheer
+This is my fisrt Repository.
+<br>
+<h5>Author- Rishabh Dheer</h5>
